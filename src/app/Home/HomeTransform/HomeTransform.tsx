@@ -15,22 +15,22 @@ const HomeTransform = () => {
             AI that <span>transforms</span> reality.
           </h1>
           <p>
-            Honey is the first distributed AI platform that combines simplicity with power. Built for companies looking
-            for a flexible scalable system that’s trustworthy and secure, Honey makes it easy to connect different AIs.
-            Whether locally over a secure intranet or in remote locations, Honey provides the backbone for a continuous
-            flow of communication and information. Its core constantly verifies the reliability and safety of all
-            interactions, ensuring that decisions are based on solid, verifiable data.
+            ButteryAI is the first distributed AI platform that combines simplicity with power. Built for companies
+            looking for a flexible scalable system that’s trustworthy and secure, ButteryAI makes it easy to connect
+            different AIs. Whether locally over a secure intranet or in remote locations, ButteryAI provides the
+            backbone for a continuous flow of communication and information. Its core constantly verifies the
+            reliability and safety of all interactions, ensuring that decisions are based on solid, verifiable data.
           </p>
           <p>
             Already invested in an LLM server? No problem. Simply upload the LLM or connect it to start leveraging
-            Honey’s amazing benefits.
+            ButteryAI’s amazing benefits.
           </p>
           <div className={styles.buttons}>
             <Button ref={button}>Join Waitlist</Button>
             <LinkButton href="https://calendly.com/buttery-jonathan">Schedule a demo</LinkButton>
           </div>
         </div>
-        <img src={transform} alt="Honey transforms reality" />
+        <img src={transform} alt="ButteryAI transforms reality" />
       </section>
       <Modal ref={modal} />
     </>

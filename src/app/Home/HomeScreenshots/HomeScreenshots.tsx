@@ -9,19 +9,19 @@ const HomeScreenshots = () => {
   return (
     <>
       <section className={styles.homeScreenshots}>
-        <img src={screenshots} alt="Honey Screenshots" className={styles.screenshots} />
+        <img src={screenshots} alt="ButteryAI Screenshots" className={styles.screenshots} />
         <div className={styles.content}>
           <h1 className={styles.title}>
-            Honey was built for <span>you</span>.
+            ButteryAI was built for <span>you</span>.
           </h1>
           <p>
-            Honey helps you get stuff done quickly and efficiently. This is because Honey stays in constant
+            ButteryAI helps you get stuff done quickly and efficiently. This is because ButteryAI stays in constant
             communication with the Hive, which means its intelligence, contextual awareness, and understanding grow more
             organically, such as when nodes with new or improved functionality get connected to the Hive. Enterprise
             customers gain a clearer path to ROI than through traditional LLMs, both short-term and long-term.
           </p>
           <p>
-            Honey is the only AI you’ll ever need. It has a suite of governance and core technologies built-in for{" "}
+            ButteryAI is the only AI you’ll ever need. It has a suite of governance and core technologies built-in for{" "}
             <strong>free</strong>. Also, we built the best foundation to build AI functionality off of, which means you
             don’t have to worry about the technology and can focus on your customers and improving functionality.
           </p>

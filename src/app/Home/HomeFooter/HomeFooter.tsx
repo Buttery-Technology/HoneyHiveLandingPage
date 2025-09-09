@@ -1,6 +1,6 @@
 import { Button, Modal } from "../../Global";
 import { useModal } from "../../../hooks";
-import honey from "../../../assets/logos/honey.png";
+import butteryai from "../../../assets/logos/butteryai.png";
 import melting from "../../../assets/images/melting-footer.svg";
 import styles from "./HomeFooter.module.scss";
 
@@ -11,9 +11,9 @@ const HomeFooter = () => {
     <>
       <footer className={styles.homeFooter}>
         <div className={styles.wrapper}>
-          <img src={honey} alt="Honey" className={styles.honey} />
+          <img src={butteryai} alt="ButteryAI" className={styles.butteryai} />
           <h1 className={styles.title}>
-            <span>Join</span> Honey today!
+            <span>Join</span> ButteryAI today!
           </h1>
           <Button className={styles.button} ref={button}>
             Join Waitlist
